@@ -1,39 +1,3 @@
-# HW2: Building Unity Game in Simulated AR
-
-In this homework you will be building a simple AR Game. The exact game you make is up to you and can be very simple (think Board games such as Tic-Tac-Toe). This document will help you set up an unity game in a simulate environment. It will guide you through the steps of: finding planes in a scene, selecting your game board location, and creating basic interaction elements. 
-
-It will be up to you to use what you have learned to make a game. Your game must have an end condition and indicate to the user the result of the game (ie. whether they have won or lost, or what their final score is). 
-
-## Logistics
-
-Please fork this assignment into a private repo. Rename the repo to cs294-137-hw2-YourGitID 
-
-Note, this stack overflow post covers on how to fork into a private repo: https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private
-
-### Deadline
-
-HW2 is due Sunday 09/19/2021, 11:59PM Pacific. Both your code and video need to be turned in for your submission to be complete; HWs which are turned in after 11:59pm will use one of your slip days -- there are no slip minutes or slip hours. The root folder of the repositoy should contain a text file with the link to the Video (can be hosted on Youtube or other video sharing sites). 
-
-### Academic honesty
-Please do not post code to a public GitHub repository, even after the class is finished, since these HWs will be reused both  in the future.
-
-This HW is to be completed individually. You are welcome to discuss the various parts of the HWs with your classmates, but you must implement the HWs yourself -- you should never look at anyone else's code.
-
-## Deliverables: 
-
-### 1. Video
-You will make a 2 minute video showing off the features of your game. The video must include a verbal description of your project and it’s features. You must also include captions corresponding to the audio. This will be an important component of all your homework assignments and your final project so it is best you get this set up early. 
-
-
-### 2. Code
-You will also need to push your project folder to your your private repo. 
-Add the following github IDs so that we can access these:
-
-bjo3rn
-tkbala
-
-**Submit a link to your repo and your video on bCourses.** Do not modify your repo after the submission deadline.
-
 ## Setting Up Your Project:
 Note the assets used in this assignmente was tested on Unity 2020.3.17f1. It may work in other versions too.
 
