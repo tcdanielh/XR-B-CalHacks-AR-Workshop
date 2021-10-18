@@ -5,7 +5,7 @@ Note that the assets used were tested on Unity 2020.3.17f1. It may work in other
 
 Download the SimEnvironments.unitypackage from Google Drive: https://drive.google.com/file/d/1MXVdZPYlaNiuzQ4f17C92cvFl_7bcSVe/view?usp=sharing
 
-PLEASE DOWNLOAD UNITY & SIMENVIRONMENTS.UNITYPACKAGE BEFOREHAND AS IT WILL TAKE A WHILE TO DOWNLOAD & IMPORT THESE PACKAGES.
+PLEASE DOWNLOAD UNITY & SIMENVIRONMENTS.UNITYPACKAGE BEFOREHAND AS IT MAY TAKE A WHILE TO DOWNLOAD & IMPORT THESE PACKAGES.
 
 In Unity Hub create a new 3D Project. Import the ARFoundationSim.unitypackage and SimEnvironments.unitypackage using
 
