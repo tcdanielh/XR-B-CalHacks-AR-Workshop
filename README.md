@@ -1,4 +1,4 @@
-IMPORTANT: Before the workshop, please download Unity Hub and Unity version 2020.3 for this project, as it may take a long time to download and install Unity.
+IMPORTANT: Before the workshop, please download Unity Hub and Unity version 2020.3 for this project, as it may take a long time to download and install Unity. It could take 30 minutes or longer depending on your internet speed :(.
 
 We will be walking through Part 1 for the workshop.
 
