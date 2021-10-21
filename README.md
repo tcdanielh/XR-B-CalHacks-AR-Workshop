@@ -1,6 +1,8 @@
 # Part 1: Building a Unity Game in Simulated AR
 
 ## Setting Up Your Project:
+Please download Unity Hub and Unity version 2020.3 for this project.
+
 Note that the assets used were tested on Unity 2020.3.17f1. It may work in other versions too.
 
 Download the ARFoundationSim.unitypackage from the repo above, and the SimEnvironments.unitypackage from Google Drive: https://drive.google.com/file/d/1MXVdZPYlaNiuzQ4f17C92cvFl_7bcSVe/view?usp=sharing
