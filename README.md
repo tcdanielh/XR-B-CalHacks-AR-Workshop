@@ -3,7 +3,7 @@
 ## Setting Up Your Project:
 Note that the assets used were tested on Unity 2020.3.17f1. It may work in other versions too.
 
-Download the SimEnvironments.unitypackage from Google Drive: https://drive.google.com/file/d/1MXVdZPYlaNiuzQ4f17C92cvFl_7bcSVe/view?usp=sharing
+Download the ARFoundationSim.unitypackage from the repo above, and the SimEnvironments.unitypackage from Google Drive: https://drive.google.com/file/d/1MXVdZPYlaNiuzQ4f17C92cvFl_7bcSVe/view?usp=sharing
 
 PLEASE DOWNLOAD UNITY & SIMENVIRONMENTS.UNITYPACKAGE BEFOREHAND AS IT MAY TAKE A WHILE TO DOWNLOAD & IMPORT THESE PACKAGES.
 
