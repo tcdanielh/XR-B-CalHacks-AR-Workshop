@@ -978,3 +978,5 @@ That's it! Try to think of ways in which these tracked images can interact with 
 - In a battle game, you may track images of a sword. When a player brings in the image of a sword into the scene, a virtual sword will spawn at the location of the image. The player can use the virtual sword to attack virtual enemies or virtual objects in the scene. 
 
 VERY IMPORTANT: In all these interactions, design your on-screen and tracked object interactions keeping in mind that the player will have to use one hand to hold the mobile and see the scene. So, only one hand might be free to interact using tracked objects. It important to ensure that these interactions are feasible, ergonomic and enjoyable.
+
+Credit: Thank you to Bala Kumaravel and the CS294-137 instructors for allowing us to borrow some assets and instructions for this workshop.
