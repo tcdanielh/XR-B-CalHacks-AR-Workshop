@@ -1,12 +1,14 @@
-IMPORTANT: Before the workshop, please download Unity Hub and Unity version 2020.3 for this project, as it may take a long time to download and install Unity. It could take 30 minutes or longer depending on your internet speed :(.
+**IMPORTANT: Before the workshop, please download Unity Hub and Unity version 2020.3 for this project, as it may take a long time to download and install Unity. It could take 30 minutes or longer depending on your internet speed :(.**
 
 Also, please download the ARFoundationSim.unitypackage from the above repo and ARFoundationSim.unitypackage from the Google Drive link below.
 
 We will be walking through Part 1 during the workshop.
 
-Follow us here!
-Website: https://xr.berkeley.edu/
-FB: https://www.facebook.com/xratberkeley
+**Pre-requisites**: It is expected to have a little bit of object oriented programming experience.
+
+Follow us here!\
+Website: https://xr.berkeley.edu/\
+FB: https://www.facebook.com/xratberkeley\
 Discord: https://discord.gg/GvGUUCN
 
 # Part 1: Building a Unity Game in Simulated AR
