@@ -1,6 +1,6 @@
 **IMPORTANT: Before the workshop, please download Unity Hub and Unity version 2020.3 for this project, as it may take a long time to download and install Unity. It could take 30 minutes or longer depending on your internet speed :(.**
 
-Also, please download the ARFoundationSim.unitypackage from the above repo and ARFoundationSim.unitypackage from the Google Drive link below.
+Also, please download the ARFoundationSim.unitypackage from the above repo and SimEnvironments.unitypackage from the Google Drive link below.
 
 We will be walking through Part 1 during the workshop.
 
@@ -17,7 +17,9 @@ Discord: https://discord.gg/GvGUUCN
 
 Note that the assets used were tested on Unity 2020.3.17f1. It may work in other versions too.
 
-Download the ARFoundationSim.unitypackage from the repo above, and the SimEnvironments.unitypackage from Google Drive: https://drive.google.com/file/d/1MXVdZPYlaNiuzQ4f17C92cvFl_7bcSVe/view?usp=sharing
+Download the ARFoundationSim.unitypackage from the repo above.
+
+And the **SimEnvironments.unitypackage** from Google Drive: https://drive.google.com/file/d/1MXVdZPYlaNiuzQ4f17C92cvFl_7bcSVe/view?usp=sharing
 
 In Unity Hub create a new 3D Project. Import the ARFoundationSim.unitypackage and SimEnvironments.unitypackage using
 
