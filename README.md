@@ -1,6 +1,13 @@
 IMPORTANT: Before the workshop, please download Unity Hub and Unity version 2020.3 for this project, as it may take a long time to download and install Unity. It could take 30 minutes or longer depending on your internet speed :(.
 
+Also, please download the ARFoundationSim.unitypackage from the above repo and ARFoundationSim.unitypackage from the Google Drive link below.
+
 We will be walking through Part 1 during the workshop.
+
+Follow us here!
+Website: https://xr.berkeley.edu/
+FB: https://www.facebook.com/xratberkeley
+Discord: https://discord.gg/GvGUUCN
 
 # Part 1: Building a Unity Game in Simulated AR
 
@@ -27,7 +34,7 @@ We see that, the AR camera is seeing the wrong parts of the scene. Set the trans
 ![i2.JPG](/Instructions/i2.JPG)
 
 
-Now to help interface with all the AR Planes and their associated interations, we will add our ARPlaneManager, and ARRaycastManager into the scene. To do this, create a new game Object in the scene hierarchy and call it "Managers". In the inspection tab select Add Component and in the search box type “AR Plane Manager” and add it. You will notice that the plane prefab field is empty. We will fill this field by creating our own plane prefab. 
+Now to help interface with all the AR Planes and their associated interations, we will add our ARPlaneManager, and ARRaycastManager into the scene. To do this, create a new game Object in the scene hierarchy and call it "Managers". In the inspection tab select Add Component and in the search box type “AR Plane Manager” and add it.
 
 ![i4.JPG](/Instructions/i4.JPG)
 
