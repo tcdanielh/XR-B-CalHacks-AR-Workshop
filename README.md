@@ -7,8 +7,8 @@ We will be walking through Part 1 during the workshop.
 **Pre-requisites**: It is expected to have a little bit of object oriented programming experience.
 
 Follow us here!\
-Website: https://xr.berkeley.edu/\
-FB: https://www.facebook.com/xratberkeley\
+Website: https://xr.berkeley.edu/ \
+FB: https://www.facebook.com/xratberkeley \
 Discord: https://discord.gg/GvGUUCN
 
 # Part 1: Building a Unity Game in Simulated AR
